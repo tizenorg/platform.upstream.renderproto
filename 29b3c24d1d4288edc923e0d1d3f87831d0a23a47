@@ -1,0 +1,8 @@
+Change-Id: I29b3c24d1d4288edc923e0d1d3f87831d0a23a47
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 09:38:53 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4958
+Project: platform/upstream/renderproto
+Branch: refs/heads/tizen
