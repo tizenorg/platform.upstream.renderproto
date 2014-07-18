@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:           renderproto
 Version:        0.11.1
 Release:        1
